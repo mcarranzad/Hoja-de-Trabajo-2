@@ -1,0 +1,2 @@
+1	Juan	Perez	95
+2	Ernesto	Colindres	76.5
